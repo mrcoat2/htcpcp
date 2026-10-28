@@ -1,0 +1,13 @@
+{
+  "black coffee": {
+    "strength": "gross"
+  },
+  {
+  "decaf": {
+    "strength": "disappointing"
+  },
+  {
+  "espresso": {
+    "strength": "high"
+  },
+}
